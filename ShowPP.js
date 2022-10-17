@@ -3,7 +3,8 @@
  * @description Lets you click users avatars on their profile page to view a bigger version in your browser.
  * @version 1.0
  * @author s0ca
- * @source https://github.com/s0ca/ShowPP/ShowPP.js
+ * @website https://s0ca.site
+ * @source https://github.com/s0ca/ShowPP/blob/main/ShowPP.js
  */
 
  module.exports = class linkProfilePicture {
